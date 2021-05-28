@@ -1,2 +1,2 @@
 # IMT575_DS
-stock market data science project
+# Reddit Headlines and Stock Market Performance
